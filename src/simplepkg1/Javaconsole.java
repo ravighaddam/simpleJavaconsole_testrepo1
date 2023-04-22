@@ -28,7 +28,7 @@ public class Javaconsole {
 		Scanner sc = new Scanner(System.in);
         
         /* Get the input of two variables */
-        System.out.print("Enter the Two Numbers:");
+        System.out.print("Enter the Two Numbers of users:");
         int a = sc.nextInt();
         int b = sc.nextInt();
         /*
